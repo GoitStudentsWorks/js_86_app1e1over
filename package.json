@@ -2,10 +2,10 @@
   "name": "ChildLabor",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://app1e1over.github.io/ChildLabor/",
+  "homepage": "https://GoitStudentsWorks.github.io/js_86_app1e1over/",
   "scripts": {
     "start": "parcel src/index.html",
-    "build": "parcel build src/*.html --public-url /ChildLabor/"
+    "build": "parcel build src/*.html --public-url /js_86_app1e1over/"
   },
   "repository": {
     "type": "git",
